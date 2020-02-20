@@ -17,8 +17,8 @@ title: LenguajeGrupo4
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog del Grupo 4 de Lenguaje.
-baseurl: "" # the subpath of your site, e.g. /blog 
-url: "https://kenthencalada.github.io/LenguajePage/" # the base hostname & protocol for your site
+baseurl: "/LenguajePage" # the subpath of your site, e.g. /blog 
+url: "https://kenthencalada.github.io" # the base hostname & protocol for your site
 github_username:    
 instagram_username: 
 twitter_username:   
