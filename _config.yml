@@ -23,5 +23,8 @@ github_username:
 instagram_username: 
 twitter_username:   
 
+# Disqus
+discus-identifier: kenthencalada
+
 # Build settings
 markdown: kramdown
